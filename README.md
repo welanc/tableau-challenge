@@ -7,7 +7,7 @@ Contributors: Welan Chu
 
 # Data Wrangling
 
-~~Our working files, resources and outputs can be found in the following structure:~~
+Working files, resources and outputs can be found in the following structure:
  
 ## Citi Bike website
 
@@ -96,9 +96,9 @@ For analysis of the two phenomena discovered in the dataset, please refer to the
 ## Story
 ### New York Citi Bike Ridership Analysis**
 	
-- **Slide 1:** Where do riders most finish from each starting station?frequently
+- **Slide 1:** Where do riders most frequently finish from each starting station?
 - **Slide 2:** How has ridership changed in winter from 2014 to 2019
 - **Slide 3:** How has ridership changed in summer from 2014 to 2019
 - **Slide 4:** Ridership changes per hour between summer vs winter, 2014 & 2019
 - **Slide 5:** Ridership by age and gender (M/F) in 2014 summer vs. winter
-- **Slide 6:** Ridership by age and gender (M/F) in 2019 summer vs. winter# tableau-challenge
+- **Slide 6:** Ridership by age and gender (M/F) in 2019 summer vs. winter
